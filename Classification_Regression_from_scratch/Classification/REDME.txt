@@ -1,0 +1,6 @@
+The files NaiveBayes_PrimaryTumor.ipynb and NaiveBayes_DryBeans.ipynb contain the analysis performed on,
+respectively, the dataset primary_tumor.csv and Dry_Beans.csv. The file NaiveBayes.py contains the implementation of the algorithm from scratch. 
+
+The libraries used are numpy and pandas for managing data, matplotlib and seaborn for plotting,
+and sklearn, which has been used only for comparison with other algorithms and some other 
+tools, like the evaluation metrics.

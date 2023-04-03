@@ -1,0 +1,8 @@
+The files kNN_housing.ipynb and kNN_ailerons.ipynb contain the analysis performed on,
+respectively, the dataset housing.csv and ailerons.csv. The file kNN_Regressor.py and
+kNN_Regressor_Weighted.py contain the implementation of the algorithm from scratch 
+(kNN regressor and weighted kNN regressor).
+
+The libraries used are numpy and pandas for managing data, matplotlib and seaborn for plotting,
+and sklearn, which has been used only for comparison with other algorithms and some other 
+tools, like the evaluation metrics.
