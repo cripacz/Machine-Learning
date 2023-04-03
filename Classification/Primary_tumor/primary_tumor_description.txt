@@ -1,0 +1,18 @@
+@attribute age {<30,30-59,>=60} # qua one hot enc 
+@attribute sex {male,female}
+@attribute histologic-type {epidermoid,adeno,anaplastic} # qua one hot enc
+@attribute degree-of-diffe {well,fairly,poorly} # qua one hot enc
+@attribute bone {yes,no}
+@attribute bone-marrow {yes,no}
+@attribute lung {yes,no}
+@attribute pleura {yes,no}
+@attribute peritoneum {yes,no}
+@attribute liver {yes,no}
+@attribute brain {yes,no}
+@attribute skin {yes,no}
+@attribute neck {yes,no}
+@attribute supraclavicular {yes,no}
+@attribute axillar {yes,no}
+@attribute mediastinum {yes,no}
+@attribute abdominal {yes,no}
+@attribute binaryClass {P,N}
